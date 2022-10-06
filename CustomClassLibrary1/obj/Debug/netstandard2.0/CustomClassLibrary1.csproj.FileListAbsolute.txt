@@ -1,0 +1,10 @@
+C:\Users\Morake\source\repos\CustomClassLibrary1\bin\Debug\netstandard2.0\CustomClassLibrary1.deps.json
+C:\Users\Morake\source\repos\CustomClassLibrary1\bin\Debug\netstandard2.0\CustomClassLibrary1.dll
+C:\Users\Morake\source\repos\CustomClassLibrary1\bin\Debug\netstandard2.0\CustomClassLibrary1.pdb
+C:\Users\Morake\source\repos\CustomClassLibrary1\obj\Debug\netstandard2.0\CustomClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Morake\source\repos\CustomClassLibrary1\obj\Debug\netstandard2.0\CustomClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morake\source\repos\CustomClassLibrary1\obj\Debug\netstandard2.0\CustomClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\Morake\source\repos\CustomClassLibrary1\obj\Debug\netstandard2.0\CustomClassLibrary1.AssemblyInfo.cs
+C:\Users\Morake\source\repos\CustomClassLibrary1\obj\Debug\netstandard2.0\CustomClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Morake\source\repos\CustomClassLibrary1\obj\Debug\netstandard2.0\CustomClassLibrary1.dll
+C:\Users\Morake\source\repos\CustomClassLibrary1\obj\Debug\netstandard2.0\CustomClassLibrary1.pdb
